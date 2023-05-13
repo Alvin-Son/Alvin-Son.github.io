@@ -51,10 +51,10 @@ experience:
   
 
 publications:
-  #  - title: Random title of paper. An interesting one.
-  #  link: "#"
-  #  authors: John E. Doe
-  #  conference: Some conference, 2016
+    - title: COMING SOON
+    link: "#"
+    authors: .
+    conference: .
 
 projects:
   #- title: Cool Project 
@@ -65,7 +65,7 @@ projects:
 
 
 # Volunteering
-Volunteering:
+volunteering:
   - time: 2023 Spring
     role: ECE322 Teaching Assistant
     company: Seoul National University
