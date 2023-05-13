@@ -1,4 +1,4 @@
-name: Wonbeom LEE
+name: Wonbeom Lee
 support_dark_mode: true
 fork: true
 
@@ -53,8 +53,8 @@ experience:
 publications:
     - title: COMING SOON
     link: "#"
-    authors: .
-    conference: .
+    authors: Wonbeom Lee
+    conference: some conference 2024
 
 projects:
   #- title: Cool Project 
