@@ -4,7 +4,7 @@ fork: true
 
 # Sidebar
 contact:
-  email: leewonbeom6112@gmail.com
+  email: wonbeom@snu.ac.kr
   github: leewonbeom
   linkedin: 
   phone: 
@@ -12,11 +12,14 @@ contact:
   twitter: 
 
 languages:
-  - idiom: Koeran
+  - idiom: Korean
   - idiom: English
 
 education:
-  - degree: BSc in ECE
+  - degree: M.S. degree in ECE
+    time: 2022-NOW
+    university: Seoul National University
+  - degree: B.S. degree in ECE
     time: 2019-2022
     university: Seoul National University
 
@@ -34,39 +37,36 @@ skills:
 
 # Profile
 profile: |
-  Hello
+  Hello, 
+
 
 # Experience
 experience:
   - role: Undergraduate Researher
-    time: 2021-Present
+    time: 2021-2022
     company: Seoul National University
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
     technologies_used: | 
-      C++
+      C++, Python
   
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  #  - title: Random title of paper. An interesting one.
+  #  link: "#"
+  #  authors: John E. Doe
+  #  conference: Some conference, 2016
 
 projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  #- title: Cool Project 
+  #  link: #
+  #  details: |
+  #    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  #    tempor incididunt ut labore et dolore magna aliqua.
 
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+Volunteering:
+  - time: 2023 Spring
+    role: ECE322 Teaching Assistant
+    company: Seoul National University
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
