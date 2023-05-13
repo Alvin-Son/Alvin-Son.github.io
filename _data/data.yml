@@ -48,7 +48,6 @@ experience:
     details: |
     technologies_used: | 
       C++, Python
-  
 
 publications:
   - title: COMING SOON
@@ -62,7 +61,6 @@ projects:
   #  details: |
   #    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
   #    tempor incididunt ut labore et dolore magna aliqua.
-
 
 # Volunteering
 volunteering:
