@@ -50,7 +50,7 @@ experience:
     time: 2021-2022
     company: Seoul National University
     details: I implemented a CXL-interconnected DRAM simulator. I also briefly
-      look in to the security about micro-ops and Meltdown, Spectre.
+      looked into the security issues of micro-ops, Meltdown, and Spectre.
     technologies_used: | 
       C++, Python
 
