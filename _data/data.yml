@@ -77,5 +77,5 @@ projects:
 volunteering:
   - time: 2023 Spring
     role: Teaching Assistant
-    company: 430.322: Computer Organization, SNU ECE
+    company: "430.322: Computer Organization, SNU ECE"
     details: |
