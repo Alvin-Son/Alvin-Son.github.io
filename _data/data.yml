@@ -25,9 +25,9 @@ education:
 
 skills:
 #  - category: Backend
-#    skill: 
-#      - Go
-#      - Rust
+    skill: 
+      - C/C++
+      - Python
 #  - category: Frontend
 #    skill:
 #      - React
@@ -50,15 +50,15 @@ experience:
     time: 2023-Present
     company: Seoul National University
       #details: 
-    technologies_used: | 
-      C++, Python
+      #technologies_used: | 
+      #C++, Python
   - role: Undergraduate Researher
     time: 2021-2022
     company: Seoul National University
     details: I implemented a CXL-interconnected DRAM simulator. I also 
       looked into the security issues of micro-ops, Meltdown, and Spectre.
-    technologies_used: | 
-      C++, Python
+      #technologies_used: | 
+      #C++, Python
 
 publications:
   - title: COMING SOON
