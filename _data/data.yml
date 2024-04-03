@@ -6,7 +6,7 @@ fork: true
 contact:
   email: wonbeom@snu.ac.kr
   github: leewonbeom
-  linkedin: www.linkedin.com/in/wonbeomlee
+  linkedin: wonbeomlee
   phone: 
   gitlab: 
   twitter: 
@@ -16,9 +16,9 @@ languages:
   - idiom: English
 
 education:
-  - degree: M.S. degree in ECE
-    time: 2022-NOW
-    university: Seoul National University
+  #  - degree: M.S. degree in ECE
+  #  time: 2022-NOW
+  #  university: Seoul National University
   - degree: B.S. degree in ECE
     time: 2019-2022
     university: Seoul National University
@@ -38,7 +38,7 @@ skills:
 # Profile
 profile: |
   Hello, I am a 2nd year MS student in Computer Architecture and Systems
-  Research (Comparch) at Seoul National University. I am working on the topics
+  Lab (SNU-CompArch) at Seoul National University. I am working on the topics
   in efficient systems for emerging applications especially Generative AI under
   the supervision of Prof. <a href="https://jaewoong.org">Jaewoong Sim</a>. My
   research interests are also in Accelerator and Memory Systems. I received
@@ -46,10 +46,16 @@ profile: |
 
 # Experience
 experience:
+  - role: MS Student
+    time: 2023-Present
+    company: Seoul National University
+      #details: 
+    technologies_used: | 
+      C++, Python
   - role: Undergraduate Researher
     time: 2021-2022
     company: Seoul National University
-    details: I implemented a CXL-interconnected DRAM simulator. I also briefly
+    details: I implemented a CXL-interconnected DRAM simulator. I also 
       looked into the security issues of micro-ops, Meltdown, and Spectre.
     technologies_used: | 
       C++, Python
