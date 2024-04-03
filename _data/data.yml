@@ -24,7 +24,7 @@ education:
     university: Seoul National University
 
 skills:
-#  - category: Backend
+  - category: Programming
     skill: 
       - C/C++
       - Python
