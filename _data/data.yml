@@ -76,6 +76,6 @@ projects:
 # Volunteering
 volunteering:
   - time: 2023 Spring
-    role: ECE322 Teaching Assistant
-    company: Seoul National University
+    role: Teaching Assistant
+    company: 430.322: Computer Organization, SNU ECE
     details: |
