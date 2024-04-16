@@ -63,7 +63,7 @@ experience:
 publications:
   - title: "Tender: Accelerating Large Language Models via Tensor Decompostion and Runtime Requantization"
     link: "#"
-    authors: Jungi Lee†, <b>Wonbeom Lee†</b>, Jaewoong Sim
+    authors: Jungi Lee*, <b>Wonbeom Lee*</b>, Jaewoong Sim
     conference: Proc. of the 51st International Symposium on Computer Architecture (<b>ISCA</b>), Buenos Aires, Argentina, June 2024 
 
 projects:
