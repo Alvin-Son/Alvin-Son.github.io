@@ -61,10 +61,10 @@ experience:
       #C++, Python
 
 publications:
-  - title: COMING SOON
+  - title: Tender: Accelerating Large Language Models via Tensor Decompostion and Runtime Requantization
     link: "#"
-    authors: Wonbeom Lee
-    conference: some conference 2024
+    authors: Jungi Lee†, <b>Wonbeom Lee†</b>, Jaewoong Sim
+    conference: Proc. of the 51st International Symposium on Computer Architecture (ISCA), Buenos Aires, Argentina, June 2024 
 
 projects:
   #- title: Cool Project 
