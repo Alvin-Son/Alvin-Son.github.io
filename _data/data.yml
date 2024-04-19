@@ -20,7 +20,7 @@ education:
   #  time: 2022-NOW
   #  university: Seoul National University
   - degree: B.S. degree in ECE
-    time: 2019-2022
+    time: 2019.3-2022.8
     university: Seoul National University
 
 skills:
@@ -63,8 +63,8 @@ experience:
 publications:
   - title: "Tender: Accelerating Large Language Models via Tensor Decompostion and Runtime Requantization"
     link: "#"
-    authors: Jungi Lee*, <b>Wonbeom Lee*</b>, Jaewoong Sim
-    conference: Proc. of the 51st International Symposium on Computer Architecture (<b>ISCA</b>), Buenos Aires, Argentina, June 2024 
+    authors: Jungi Lee*, <u>Wonbeom Lee*</u>, Jaewoong Sim
+    conference: ISCA, June 2024 
 
 projects:
   #- title: Cool Project 
