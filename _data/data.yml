@@ -61,7 +61,7 @@ experience:
       #C++, Python
 
 publications:
-  - title: "Tender: Accelerating Large Language Models via Tensor Decompostion and Runtime Requantization"
+  - title: "Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization"
     link: "#"
     authors: Jungi Lee*, <u>Wonbeom Lee*</u>, Jaewoong Sim
     conference: ISCA, June 2024 
