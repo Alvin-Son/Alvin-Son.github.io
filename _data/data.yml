@@ -55,8 +55,8 @@ experience:
   - role: Undergraduate Researher
     time: 2021-2022
     company: Seoul National University
-    details: I implemented a cycle-level CXL-interconnection simulator that can
-      be easily integrated to the exisiting DRAM simulators. I analyze the
+    details: I implemented a cycle-level CXL interconnection simulator that can
+      be easily integrated with the existing DRAM simulators. I analyze the
       timing behavior of the CXL-interconnection using the simulator for
       different DRAM configurations and memory-intensive SPEC CPU 2006
       benchmarks.
