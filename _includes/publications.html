@@ -6,7 +6,7 @@
         {% for pub in publications%}
             <div class="publication-item">
                 <div class="publication-title">
-                    <button class="btn isca">ISCA-51</button>
+                    <a href="{{pub.conflink}}"><button class="btn isca">{{pub.conf}}</button></a>
                     <a href="{{pub.link}}">{{pub.title}}</a>
                 </div>
                 <div class="authors">{{pub.authors}}</div>
