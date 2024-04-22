@@ -37,12 +37,13 @@ skills:
 
 # Profile
 profile: |
-  Hello, I am a 2nd year M.S. student in Computer Architecture and Systems Lab
-  (SNU-CompArch) at Seoul National University. I am working on the topics in
-  <em>efficient systems for emerging applications like Generative AI</em> under
-  the supervision of Prof. <a href="https://jaewoong.org">Jaewoong Sim</a>. My
-  research interests are also in Hardware-Software Co-design and Memory
-  Systems. I received my B.S. degree from Seoul National University (2022).
+  Hello, I am a 2nd year M.S./Ph.D. student in Computer Architecture and
+  Systems Lab (SNU-CompArch) at Seoul National University. I am working on the
+  topics in <em>efficient systems for emerging applications like Generative
+  AI</em> under the supervision of Prof. <a
+  href="https://jaewoong.org">Jaewoong Sim</a>. My research interests are also
+  in Hardware-Software Co-design and Memory Systems. I received my B.S. degree
+  from Seoul National University (2022).
 
 # Experience
 experience:
