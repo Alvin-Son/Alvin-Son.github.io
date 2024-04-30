@@ -70,7 +70,7 @@ publications:
     authors: <u>Wonbeom Lee*</u>, Jungi Lee*, Junghwan Seo, Jaewoong Sim
     conference: OSDI, July 2024 
     conf: OSDI'24
-    btnclass: osdi
+    btnclass: btn osdi
     conflink: https://www.usenix.org/conference/osdi24/
 
   - title: "Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization"
@@ -78,7 +78,7 @@ publications:
     authors: Jungi Lee*, <u>Wonbeom Lee*</u>, Jaewoong Sim
     conference: ISCA, June 2024 
     conf: ISCA-51
-    btnclass: isca
+    btnclass: btn isca
     conflink: https://iscaconf.org/isca2024/
   
 projects:
