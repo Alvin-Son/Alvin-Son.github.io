@@ -53,7 +53,7 @@ experience:
     details:
       #technologies_used: | 
       #C++, Python
-  - role: Undergraduate Researher
+  - role: Undergraduate Researcher
     time: 2021-2022
     company: Seoul National University
     details: I implemented a cycle-level CXL interconnection simulator that can
