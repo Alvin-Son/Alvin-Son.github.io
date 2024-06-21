@@ -74,7 +74,7 @@ publications:
     conflink: https://www.usenix.org/conference/osdi24/
 
   - title: "Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization"
-    link: "#"
+    link: "http://arxiv.org/abs/2406.12930"
     authors: Jungi Lee*, <u>Wonbeom Lee</u>*, Jaewoong Sim
     conference: ISCA, June 2024 
     conf: ISCA-51
