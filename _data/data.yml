@@ -66,7 +66,7 @@ experience:
 
 publications:
   - title: "InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management"
-    link: "#"
+    link: "https://arxiv.org/pdf/2406.19707"
     authors: <u>Wonbeom Lee</u>*, Jungi Lee*, Junghwan Seo, Jaewoong Sim
     conference: OSDI, July 2024 
     conf: OSDI'24
