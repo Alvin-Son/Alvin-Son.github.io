@@ -72,7 +72,7 @@ publications:
     conf: OSDI'24
     btnclass: btn osdi
     conflink: https://www.usenix.org/conference/osdi24/
-    links: <a href="https://www.usenix.org/conference/osdi24/presentation/lee">paper</a> <a href="https://github.com/snu-comparch/InfiniGen"code</a>
+    links: \[<a href="https://www.usenix.org/conference/osdi24/presentation/lee">paper</a>\]\[<a href="https://github.com/snu-comparch/InfiniGen"code</a>\]
 
   - title: "Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization"
     link: "https://arxiv.org/pdf/2406.12930"
