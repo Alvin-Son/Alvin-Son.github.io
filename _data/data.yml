@@ -81,7 +81,7 @@ publications:
     conf: ISCA-51
     btnclass: btn isca
     conflink: https://iscaconf.org/isca2024/
-    links: <a href="https://arxiv.org/pdf/2406.12930">paper</a>    <a href="https://github.com/snu-comparch/Tender">code</a>    <a href="files/isca24-tender-main">slide</a>    <a href="files/isca24-tender-poster">poster</a>
+    links: <a href="https://arxiv.org/pdf/2406.12930">paper</a>    <a href="https://github.com/snu-comparch/Tender">code</a>    <a href="files/isca24-tender-main.pdf">slide</a>    <a href="files/isca24-tender-poster.pdf">poster</a>
   
 projects:
   #- title: Cool Project 
