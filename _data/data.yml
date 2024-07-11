@@ -66,12 +66,13 @@ experience:
 
 publications:
   - title: "InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management"
-    link: "https://arxiv.org/pdf/2406.19707"
+    link: "https://www.usenix.org/conference/osdi24/presentation/lee"
     authors: <u>Wonbeom Lee</u>*, Jungi Lee*, Junghwan Seo, Jaewoong Sim
     conference: OSDI, July 2024 
     conf: OSDI'24
     btnclass: btn osdi
     conflink: https://www.usenix.org/conference/osdi24/
+    link: <a href="https://www.usenix.org/conference/osdi24/presentation/lee">paper</a> <a href="https://github.com/snu-comparch/InfiniGen"code</a>
 
   - title: "Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization"
     link: "https://arxiv.org/pdf/2406.12930"
@@ -80,6 +81,7 @@ publications:
     conf: ISCA-51
     btnclass: btn isca
     conflink: https://iscaconf.org/isca2024/
+    link: <a href="https://arxiv.org/pdf/2406.12930">paper</a> <a href="https://github.com/snu-comparch/Tender"code</a>
   
 projects:
   #- title: Cool Project 
