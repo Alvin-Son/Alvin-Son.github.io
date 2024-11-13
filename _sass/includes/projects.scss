@@ -1,23 +1,13 @@
 .projects {
     .title {
-        @include body-text;
+        @include header;
         font-weight: bold;
-        .time {
-                float: right;
-                color: var(--fg-color-title-sm);
-                font-weight: 100;
-            }
     }
     .project {
         margin-bottom: 20px;
         .project-link {
             @include body-text;
             font-weight: bold;
-            .time {
-                float: right;
-                color: var(--fg-color-title-sm);
-                font-weight: 100;
-            }
         }
         .details {
             @include body-text;
