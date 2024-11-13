@@ -1,6 +1,7 @@
 .projects {
     .title {
         @include header;
+        font-weight: bold;
     }
     .project {
         margin-bottom: 20px;
