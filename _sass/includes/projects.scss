@@ -1,6 +1,6 @@
 .projects {
     .title {
-        @include header;
+        @include body-text;
         font-weight: bold;
         .time {
                 float: right;
