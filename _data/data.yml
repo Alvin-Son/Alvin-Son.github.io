@@ -1,12 +1,12 @@
-name: Wonbeom Lee
+name: Alvin Son
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: wonbeom@snu.ac.kr
-  github: leewonbeom
-  linkedin: wonbeomlee
+  email: alvinson17@gmail.com
+  github: Alvin-Son
+  linkedin: alvin-son
   phone: 
   gitlab: 
   twitter: 
@@ -16,83 +16,174 @@ languages:
   - idiom: Korean
 
 education:
-  #  - degree: M.S. degree in ECE
-  #  time: 2022-NOW
-  #  university: Seoul National University
-  - degree: B.S. degree in ECE
-    time: 03/2019-08/2022
-    university: Seoul National University
+  - degree: B.A. degree in Psychology
+    university: California State University, Fullerton
+    time: JAN 2022 - DEC 2023
+    
+
+certifications:
+  - name: Data Analytics Certification
+    institution: University of California, Berkeley
+    time: FEB 2024 - AUG 2024
 
 skills:
   - category: Programming
     skill: 
-      - C/C++
       - Python
-#  - category: Frontend
-#    skill:
-#      - React
-#      - Typescript
-#  - category: DevOps
-#    skill:
+      - SQL
+      - NoSQL
+      - VBA
+      - CAD
+  - category: Data Visualization
+    skill:
+      - Tableau
+      - Microsoft Excel
+      - SPSS
 
 # Profile
 profile: |
-  Hello, I am a 2nd year Ph.D. student in Computer Architecture and
-  Systems Lab (SNU-CompArch) at Seoul National University. I am working on the
-  topics in <em>efficient systems for emerging applications like Generative
-  AI</em> under the supervision of Prof. <a
-  href="https://jaewoong.org" style="color:#585DAC">Jaewoong Sim</a>. My research interests are also
-  in Hardware-Software Co-design and Memory Systems. I received my B.S. degree
-  from Seoul National University (2022).
+   Hello, I am Alvin Son, a dedicated data analytics professional with a strong background in Psychology and Data Science. 
+   I hold a Data Analytics Certification from UC Berkeley and a Bachelor of Arts in Psychology from California State University, Fullerton. 
+   I have hands-on experience in data analysis, statistical modeling, and machine learning, as well as project experience in analyzing complex datasets. 
+   My work in data-driven projects, such as California Fire Analysis and History of the Olympics, reflects my commitment to deriving insights through advanced 
+   analytics and interactive visualizations.
 
 # Experience
 experience:
-  - role: M.S./Ph.D. Student
-    time: 2023-Present
-    company: Seoul National University
-    details:
-      #technologies_used: | 
-      #C++, Python
-  - role: Undergraduate Researcher
-    time: 2021-2022
-    company: Seoul National University
-    details: I implemented a cycle-level CXL interconnection simulator that can
-      be easily integrated with the existing DRAM simulators. I analyze the
-      timing behavior of the CXL-interconnection using the simulator for
-      different DRAM configurations and memory-intensive SPEC CPU 2006
-      benchmarks.
-      #technologies_used: | 
-      #C++, Python
-
-publications:
-  - title: "InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management"
-    link: "https://www.usenix.org/conference/osdi24/presentation/lee"
-    authors: <u>Wonbeom Lee</u>*, Jungi Lee*, Junghwan Seo, Jaewoong Sim
-    conference: OSDI, July 2024 
-    conf: OSDI'24
-    btnclass: btn osdi
-    conflink: https://www.usenix.org/conference/osdi24/
-    links: <a href="https://www.usenix.org/conference/osdi24/presentation/lee" style="color:#585DAC">[paper]</a>    <a href="https://youtu.be/fHBokxUHU0Y" style="color:#585DAC">[talk]</a>    <a href="https://github.com/snu-comparch/InfiniGen" style="color:#585DAC">[code]</a>    <a href="files/osdi24-infinigen-main.pdf" style="color:#585DAC">[slides]</a>    <a href="files/osdi24-infinigen-poster.pdf" style="color:#585DAC">[poster]</a>
-
-  - title: "Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization"
-    link: "https://arxiv.org/pdf/2406.12930"
-    authors: Jungi Lee*, <u>Wonbeom Lee</u>*, Jaewoong Sim
-    conference: ISCA, June 2024 
-    conf: ISCA-51
-    btnclass: btn isca
-    conflink: https://iscaconf.org/isca2024/
-    links: <a href="https://arxiv.org/pdf/2406.12930" style="color:#585DAC">[paper]</a>    <a href="https://github.com/snu-comparch/Tender" style="color:#585DAC">[code]</a>    <a href="files/isca24-tender-main.pdf" style="color:#585DAC">[slides]</a>    <a href="files/isca24-tender-poster.pdf" style="color:#585DAC">[poster]</a>
-  
-projects:
-  #- title: Cool Project 
-  #  link: #
-  #  details: |
-  #    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  #    tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2023 Spring
-    role: Teaching Assistant
-    company: "430.322: Computer Organization, SNU ECE"
+  - role: Professor Assistant
+    time: 2022-2023
+    company: CSUF Psychology Department
+    location: Fullerton, CA
     details: |
+      Facilitated in-class sessions and led discussions on research methods and statistics, enhancing student engagement and understanding.
+      Assessed assignments and exams with detailed feedback to support academic growth.
+      Provided personalized academic support through regular office hours, addressing student queries effectively.
+      Innovated diverse teaching strategies to accommodate different learning styles, ensuring an inclusive classroom environment.
+      Collaborated with faculty to refine curriculum and improve course delivery.
+  
+  - role: Dental Implant Design Associate
+    time: 2020-2022
+    company: TruAbutment Inc.
+    location: Irvine, CA
+    details: |
+      Developed precise dental implant models using 3D CAD software, supporting over 60 patients weekly with accurate prostheses.
+      Designed and modified digital models of dental implants, bridges, and other prosthetic devices.
+      Collaborated with over 50 doctors nationwide to tailor dental prostheses to individual patients' needs.
+      Executed over 2,000 individual implant cases, contributing significantly to company success as the youngest team member.
+
+# Projects
+projects:
+  - title: California Fire Analysis
+    link: https://github.com/Alvin-Son/california_fire_analysis
+    time: Apr 2024
+    details: |
+      Analyzed the influence of monthly rainfall and temperature on wildfire frequency across California (2013-2024) using data from Cal Fire and NOAA.
+      Processed 2,000+ fire and climate records to identify key patterns.
+      Created visualizations with Python (Pandas, Matplotlib, Geopandas) to highlight environmental factors affecting fire occurrences.
+
+  - title: History of the Olympics
+    link: https://github.com/Alvin-Son/Project_Olympian
+    time: Aug 2024
+    details: |
+      Explored the impact of economic, political, and health stability on Olympic performance using historical data and development indicators.
+      Integrated datasets from OECD, World Bank, and Kaggle for performance analysis and predictions.
+      Built predictive models with Python (Pandas, Scikit-learn, TensorFlow) and developed interactive Tableau dashboards to present findings.
+
+# name: Wonbeom Lee
+# support_dark_mode: true
+# fork: true
+
+# # Sidebar
+# contact:
+#   email: wonbeom@snu.ac.kr
+#   github: leewonbeom
+#   linkedin: wonbeomlee
+#   phone: 
+#   gitlab: 
+#   twitter: 
+
+# languages:
+#   - idiom: English
+#   - idiom: Korean
+
+# education:
+#   #  - degree: M.S. degree in ECE
+#   #  time: 2022-NOW
+#   #  university: Seoul National University
+#   - degree: B.S. degree in ECE
+#     time: 03/2019-08/2022
+#     university: Seoul National University
+
+# skills:
+#   - category: Programming
+#     skill: 
+#       - C/C++
+#       - Python
+# #  - category: Frontend
+# #    skill:
+# #      - React
+# #      - Typescript
+# #  - category: DevOps
+# #    skill:
+
+# # Profile
+# profile: |
+#   Hello, I am a 2nd year Ph.D. student in Computer Architecture and
+#   Systems Lab (SNU-CompArch) at Seoul National University. I am working on the
+#   topics in <em>efficient systems for emerging applications like Generative
+#   AI</em> under the supervision of Prof. <a
+#   href="https://jaewoong.org" style="color:#585DAC">Jaewoong Sim</a>. My research interests are also
+#   in Hardware-Software Co-design and Memory Systems. I received my B.S. degree
+#   from Seoul National University (2022).
+
+# # Experience
+# experience:
+#   - role: M.S./Ph.D. Student
+#     time: 2023-Present
+#     company: Seoul National University
+#     details:
+#       #technologies_used: | 
+#       #C++, Python
+#   - role: Undergraduate Researcher
+#     time: 2021-2022
+#     company: Seoul National University
+#     details: I implemented a cycle-level CXL interconnection simulator that can
+#       be easily integrated with the existing DRAM simulators. I analyze the
+#       timing behavior of the CXL-interconnection using the simulator for
+#       different DRAM configurations and memory-intensive SPEC CPU 2006
+#       benchmarks.
+#       #technologies_used: | 
+#       #C++, Python
+
+# publications:
+#   - title: "InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management"
+#     link: "https://www.usenix.org/conference/osdi24/presentation/lee"
+#     authors: <u>Wonbeom Lee</u>*, Jungi Lee*, Junghwan Seo, Jaewoong Sim
+#     conference: OSDI, July 2024 
+#     conf: OSDI'24
+#     btnclass: btn osdi
+#     conflink: https://www.usenix.org/conference/osdi24/
+#     links: <a href="https://www.usenix.org/conference/osdi24/presentation/lee" style="color:#585DAC">[paper]</a>    <a href="https://youtu.be/fHBokxUHU0Y" style="color:#585DAC">[talk]</a>    <a href="https://github.com/snu-comparch/InfiniGen" style="color:#585DAC">[code]</a>    <a href="files/osdi24-infinigen-main.pdf" style="color:#585DAC">[slides]</a>    <a href="files/osdi24-infinigen-poster.pdf" style="color:#585DAC">[poster]</a>
+
+#   - title: "Tender: Accelerating Large Language Models via Tensor Decomposition and Runtime Requantization"
+#     link: "https://arxiv.org/pdf/2406.12930"
+#     authors: Jungi Lee*, <u>Wonbeom Lee</u>*, Jaewoong Sim
+#     conference: ISCA, June 2024 
+#     conf: ISCA-51
+#     btnclass: btn isca
+#     conflink: https://iscaconf.org/isca2024/
+#     links: <a href="https://arxiv.org/pdf/2406.12930" style="color:#585DAC">[paper]</a>    <a href="https://github.com/snu-comparch/Tender" style="color:#585DAC">[code]</a>    <a href="files/isca24-tender-main.pdf" style="color:#585DAC">[slides]</a>    <a href="files/isca24-tender-poster.pdf" style="color:#585DAC">[poster]</a>
+  
+# projects:
+#   #- title: Cool Project 
+#   #  link: #
+#   #  details: |
+#   #    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#   #    tempor incididunt ut labore et dolore magna aliqua.
+
+# # Volunteering
+# volunteering:
+#   - time: 2023 Spring
+#     role: Teaching Assistant
+#     company: "430.322: Computer Organization, SNU ECE"
+#     details: |
