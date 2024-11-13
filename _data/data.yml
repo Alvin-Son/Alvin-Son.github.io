@@ -41,12 +41,12 @@ skills:
       - SPSS
 
 # Profile
-profile: |
-   Hello, I am Alvin Son, a dedicated data analytics professional with a strong background in Psychology and Data Science. 
-   I hold a Data Analytics Certification from UC Berkeley and a Bachelor of Arts in Psychology from California State University, Fullerton. 
-   I have hands-on experience in data analysis, statistical modeling, and machine learning, as well as project experience in analyzing complex datasets. 
-   My work in data-driven projects, such as California Fire Analysis and History of the Olympics, reflects my commitment to deriving insights through advanced 
-   analytics and interactive visualizations.
+# profile: |
+#    Hello, I am Alvin Son, a dedicated data analytics professional with a strong background in Psychology and Data Science. 
+#    I hold a Data Analytics Certification from UC Berkeley and a Bachelor of Arts in Psychology from California State University, Fullerton. 
+#    I have hands-on experience in data analysis, statistical modeling, and machine learning, as well as project experience in analyzing complex datasets. 
+#    My work in data-driven projects, such as California Fire Analysis and History of the Olympics, reflects my commitment to deriving insights through advanced 
+#    analytics and interactive visualizations.
 
 # Experience
 experience:
