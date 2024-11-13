@@ -1,6 +1,6 @@
-title: Wonbeom Lee
-description: CV of Wonbeom Lee
-url: https://leewonbeom.github.io
+title: Alvin Son
+description: CV of Alvin Son
+url: https://alvin-son.github.io/
 baseurl: ''
 theme_skin: blue
 
@@ -15,9 +15,9 @@ exclude:
   - docker-compose.yml
 
 # Analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-GV57EY9XL5"
-    anonymize_ip         : # true, false (default)
+# analytics:
+#   provider               : "google-gtag" 
+#                           # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id          : "G-GV57EY9XL5"
+#     anonymize_ip         : # true, false (default)
