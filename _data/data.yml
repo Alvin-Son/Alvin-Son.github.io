@@ -60,17 +60,13 @@ projects:
     link: https://github.com/Alvin-Son/california_fire_analysis
     time: Apr 2024
     details: |
-      Analyzed the influence of monthly rainfall and temperature on wildfire frequency across California (2013-2024) using data from Cal Fire and NOAA.
-      Processed 2,000+ fire and climate records to identify key patterns.
-      Created visualizations with Python (Pandas, Matplotlib, Geopandas) to highlight environmental factors affecting fire occurrences.
+      Analyzed the influence of monthly rainfall and temperature on wildfire frequency across California (2013-2024) using data from Cal Fire and NOAA. Processed 2,000+ fire and climate records to identify key patterns. Created visualizations with Python (Pandas, Matplotlib, Geopandas) to highlight environmental factors affecting fire occurrences.
 
   - title: History of the Olympics
     link: https://github.com/Alvin-Son/Project_Olympian
     time: Aug 2024
     details: |
-      Explored the impact of economic, political, and health stability on Olympic performance using historical data and development indicators.
-      Integrated datasets from OECD, World Bank, and Kaggle for performance analysis and predictions.
-      Built predictive models with Python (Pandas, Scikit-learn, TensorFlow) and developed interactive Tableau dashboards to present findings.
+      Explored the impact of economic, political, and health stability on Olympic performance using historical data and development indicators. Integrated datasets from OECD, World Bank, and Kaggle for performance analysis and predictions. Built predictive models with Python (Pandas, Scikit-learn, TensorFlow) and developed interactive Tableau dashboards to present findings.
       
 # Experience
 experience:
@@ -79,18 +75,11 @@ experience:
     company: CSUF Psychology Department
     location: Fullerton, CA
     details: |
-      Facilitated engaging in-class sessions and discussions on research methods and statistics for Psychology 300, fostering a deeper understanding of course material.
-      Reviewed and provided constructive feedback on assignments and exams, helping students enhance their academic performance.
-      Conducted regular office hours, offering personalized academic support and addressing a wide range of student questions and concerns.
-      Innovated diverse teaching strategies to accommodate different learning styles, creating an inclusive classroom environment.
-      Collaborated with faculty and peers to refine curriculum and teaching practices, contributing to ongoing improvements in course delivery.
+      Facilitated engaging in-class sessions and discussions on research methods and statistics for Psychology 300, fostering a deeper understanding of course material. Reviewed and provided constructive feedback on assignments and exams, helping students enhance their academic performance. Conducted regular office hours, offering personalized academic support and addressing a wide range of student questions and concerns. Innovated diverse teaching strategies to accommodate different learning styles, creating an inclusive classroom environment. Collaborated with faculty and peers to refine curriculum and teaching practices, contributing to ongoing improvements in course delivery.
   
   - role: Dental Implant Design Associate
     time: 2020-2022
     company: TruAbutment Inc.
     location: Irvine, CA
     details: |
-      Developed precisely detailed dental implant models using advanced 3D CAD Design Software,providing accurate and comfortable crowns for over 60 patients per week.
-      Utilized computer-aided design (CAD) software to create and modify digital models of dental implants, bridges, and other prosthetic devices, ensuring optimal fit and functionality for each patient.
-      Collaborated closely with 50+ Doctors and Dentists nationwide to plan, design, and fabricate dental prostheses tailored to individual patients' unique needs.
-      Executed and designed over 2,000 individual implant cases, making significant contributions to the company's success as the youngest employee on the team.
+      Developed precisely detailed dental implant models using advanced 3D CAD Design Software,providing accurate and comfortable crowns for over 60 patients per week. Utilized computer-aided design (CAD) software to create and modify digital models of dental implants, bridges, and other prosthetic devices, ensuring optimal fit and functionality for each patient. Collaborated closely with 50+ Doctors and Dentists nationwide to plan, design, and fabricate dental prostheses tailored to individual patients' unique needs. Executed and designed over 2,000 individual implant cases, making significant contributions to the company's success as the youngest employee on the team.
