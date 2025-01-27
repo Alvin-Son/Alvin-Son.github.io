@@ -4,11 +4,15 @@
     <h2 class="title">Projects</h2>
     {% for p in projects %}
         <div class="project-item">
-            <div class="project-title">
-                <strong>{{p.title}}</strong>
+            <div class="role">
+                {{p.title}}
+            </div>
+            <div class="company">
+                {{p.organization}}
                 <span class="time">{{p.time}}</span>
             </div>
             <div class="details">{{p.details}}</div>
+            <p class="technologies">{{p.technologies_used}}</p>
         </div>
     {% endfor %}
 </section>
