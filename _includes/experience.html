@@ -4,22 +4,24 @@
     <h2 class="title">Experience</h2>
     {% for exp in experience %}
         <div class="experience-item">
-            <div class="role">
-                {{exp.role}}
+            <div class="experience-header">
+                <div class="role">
+                    {{ exp.role }}
+                </div>
+                <div class="company">
+                    {{ exp.company }}
+                    <span class="time" style="margin-left: 15px;">{{ exp.time }}</span>
+                </div>
             </div>
-            <div class="company">
-                {{exp.company}} 
-                <span class="time">{{exp.time}}</span>
-            </div> 
-            <div class="details" style="font-size: inherit; line-height: 1.5;">
+            <ul class="details">
                 {% assign sentences = exp.details | split: '. ' %}
                 {% for sentence in sentences %}
                 {% if sentence != "" %}
-                <div style="margin-bottom: 5px;">- {{ sentence }}.</div>
+                <li>{{ sentence }}.</li>
                 {% endif %}
                 {% endfor %}
-            </div>
-            <p class="technologies" style="font-size: inherit;">{{exp.technologies_used}}</p>
+            </ul>
+            <p class="technologies">{{ exp.technologies_used }}</p>
         </div>
     {% endfor %}
 </section>
