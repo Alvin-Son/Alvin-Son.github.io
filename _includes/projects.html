@@ -3,16 +3,13 @@
 <section class="projects">
     <h2 class="title">Projects</h2>
     {% for p in projects %}
-        <div class="project-item">
-            <div class="role">
-                <a class="project-link" href="{{p.link}}" target="_blank">{{p.title}}</a>
-            </div>
-            <div class="company">
-                {{p.organization}}
-                <span class="time">{{p.time}}</span>
-            </div>
-            <div class="details">{{p.details}}</div>
-            <p class="technologies">{{p.technologies_used}}</p>
+        <div class="project">
+            <span>
+                <a class="project-link" href="{{p.link}}">
+                    {{p.title}}
+                </a>
+            </span>
+            <span class="details">- {{p.details}}</span>
         </div>
     {% endfor %}
 </section>
