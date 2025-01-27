@@ -54,10 +54,7 @@ projects:
     link: https://github.com/Alvin-Son/NBA-Data-Analysis
     time: Jan 2025
     details: |
-      Conducted in-depth analysis of NBA team performance using game-by-game data from 1946 to 2023.
-      Identified the best win-loss records, highest average margin of victory, and teams with the greatest home-court advantage.
-      Utilized SQL for querying over 25,000 records and generated insights into historical trends and standout seasons.
-      Presented findings with detailed visualizations showcasing team dominance and key performance indicators.
+      Conducted in-depth analysis of NBA team performance using game-by-game data from 1946 to 2023. Identified the best win-loss records, highest average margin of victory, and teams with the greatest home-court advantage. Utilized SQL for querying over 25,000 records and generated insights into historical trends and standout seasons. Presented findings with detailed visualizations showcasing team dominance and key performance indicators.
 
   - title: California Fire Analysis
     link: https://github.com/Alvin-Son/california_fire_analysis
