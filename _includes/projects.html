@@ -11,7 +11,10 @@
                 <span class="time" style="margin-left: 15px;">{{ p.time }}</span>
             </div>
             <div class="details">
-                {{ p.details }}
+                {% assign sentences = p.details | split: ' - ' %}
+                {% for sentence in sentences %}
+                <p>- {{ sentence }}</p>
+                {% endfor %}
             </div>
         </div>
     {% endfor %}
