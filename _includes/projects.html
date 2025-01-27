@@ -10,12 +10,14 @@
                 </a>
                 <span class="time" style="margin-left: 15px;">{{ p.time }}</span>
             </div>
-            <div class="details">
-                {% assign sentences = p.details | split: ' - ' %}
+            <ul class="details">
+                {% assign sentences = p.details | split: '. ' %}
                 {% for sentence in sentences %}
-                <p>- {{ sentence }}</p>
+                {% if sentence != "" %}
+                <li>{{ sentence }}.</li>
+                {% endif %}
                 {% endfor %}
-            </div>
+            </ul>
         </div>
     {% endfor %}
 </section>
