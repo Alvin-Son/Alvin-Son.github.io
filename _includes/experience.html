@@ -11,15 +11,15 @@
                 {{exp.company}} 
                 <span class="time">{{exp.time}}</span>
             </div> 
-            <div class="details">
+            <div class="details" style="font-size: inherit; line-height: 1.5;">
                 {% assign sentences = exp.details | split: '. ' %}
                 {% for sentence in sentences %}
                 {% if sentence != "" %}
-                <div>- {{ sentence }}.</div>
+                <div style="margin-bottom: 5px;">- {{ sentence }}.</div>
                 {% endif %}
                 {% endfor %}
             </div>
-            <p class="technologies">{{exp.technologies_used}}</p>
+            <p class="technologies" style="font-size: inherit;">{{exp.technologies_used}}</p>
         </div>
     {% endfor %}
 </section>
