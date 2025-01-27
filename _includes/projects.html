@@ -5,7 +5,7 @@
     {% for p in projects %}
         <div class="project-item">
             <div class="role">
-                {{p.title}}
+                <a class="project-link" href="{{p.link}}" target="_blank">{{p.title}}</a>
             </div>
             <div class="company">
                 {{p.organization}}
