@@ -1,0 +1,24 @@
+.certifications {
+    margin-bottom: 20px;
+
+    .title {
+        @include sub-header;
+    }
+
+    .certification-item {
+        margin-bottom: 20px;
+
+        .certification-title {
+            @include body-text;
+            font-weight: bold;
+        }
+
+        .issuing-organization {
+            @include body-text;
+        }
+
+        .time {
+            @include body-text;
+        }
+    }
+}
