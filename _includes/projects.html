@@ -9,13 +9,15 @@
                     {{p.title}}
                 </a>
             </span>
-            <span class="details">- {{p.details}}</span>
+            </div>
+            <ul class="details">
                 {% assign sentences = p.details | split: '. ' %}
                 {% for sentence in sentences %}
                 {% if sentence != "" %}
                 <li>{{ sentence }}.</li>
                 {% endif %}
                 {% endfor %}
+            </ul>
         </div>
     {% endfor %}
 </section>
