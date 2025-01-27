@@ -1,6 +1,6 @@
 {% assign experience = site.data.data.experience %}
 {% if experience %}
-<section class="experiance">
+<section class="experience">
     <h2 class="title">Experience</h2>
     {% for exp in experience %}
         <div class="experience-item">
@@ -11,10 +11,16 @@
                 {{exp.company}} 
                 <span class="time">{{exp.time}}</span>
             </div> 
-            <div class="details">{{exp.details}}</div>
+            <ul class="details">
+                {% assign sentences = exp.details | split: '. ' %}
+                {% for sentence in sentences %}
+                {% if sentence != "" %}
+                <li>{{ sentence }}.</li>
+                {% endif %}
+                {% endfor %}
+            </ul>
             <p class="technologies">{{exp.technologies_used}}</p>
         </div>
-       
     {% endfor %}
 </section>
 {% endif %}
