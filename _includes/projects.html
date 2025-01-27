@@ -4,20 +4,12 @@
     <h2 class="title">Projects</h2>
     {% for p in projects %}
         <div class="project">
-            <div class="project-header">
-                <a class="project-link" href="{{ p.link }}">
-                    {{ p.title }}
+            <span>
+                <a class="project-link" href="{{p.link}}">
+                    {{p.title}}
                 </a>
-                <span class="time" style="margin-left: 15px;">{{ p.time }}</span>
-            </div>
-            <ul class="details">
-                {% assign sentences = p.details | split: '. ' %}
-                {% for sentence in sentences %}
-                {% if sentence != "" %}
-                <li>{{ sentence }}.</li>
-                {% endif %}
-                {% endfor %}
-            </ul>
+            </span>
+            <span class="details">- {{p.details}}</span>
         </div>
     {% endfor %}
 </section>
