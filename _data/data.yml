@@ -22,8 +22,8 @@ education:
     
 
 certifications:
-  - name: Data Analytics Certification
-    institution: University of California, Berkeley
+  - title: Data Analytics Certification
+    organization: University of California, Berkeley
     time: FEB 2024 - AUG 2024
 
 skills:
