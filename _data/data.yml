@@ -48,6 +48,33 @@ skills:
 #    My work in data-driven projects, such as California Fire Analysis and History of the Olympics, reflects my commitment to deriving insights through advanced 
 #    analytics and interactive visualizations.
 
+# Projects
+projects:
+  - title: NBA Statistics Analysis
+    link: https://github.com/Alvin-Son/NBA-Data-Analysis
+    time: Jan 2025
+    details: |
+      Conducted in-depth analysis of NBA team performance using game-by-game data from 1946 to 2023.
+      Identified the best win-loss records, highest average margin of victory, and teams with the greatest home-court advantage.
+      Utilized SQL for querying over 25,000 records and generated insights into historical trends and standout seasons.
+      Presented findings with detailed visualizations showcasing team dominance and key performance indicators.
+
+  - title: California Fire Analysis
+    link: https://github.com/Alvin-Son/california_fire_analysis
+    time: Apr 2024
+    details: |
+      Analyzed the influence of monthly rainfall and temperature on wildfire frequency across California (2013-2024) using data from Cal Fire and NOAA.
+      Processed 2,000+ fire and climate records to identify key patterns.
+      Created visualizations with Python (Pandas, Matplotlib, Geopandas) to highlight environmental factors affecting fire occurrences.
+
+  - title: History of the Olympics
+    link: https://github.com/Alvin-Son/Project_Olympian
+    time: Aug 2024
+    details: |
+      Explored the impact of economic, political, and health stability on Olympic performance using historical data and development indicators.
+      Integrated datasets from OECD, World Bank, and Kaggle for performance analysis and predictions.
+      Built predictive models with Python (Pandas, Scikit-learn, TensorFlow) and developed interactive Tableau dashboards to present findings.
+      
 # Experience
 experience:
   - role: Professor Assistant
@@ -70,24 +97,6 @@ experience:
       Designed and modified digital models of dental implants, bridges, and other prosthetic devices.
       Collaborated with over 50 doctors nationwide to tailor dental prostheses to individual patients' needs.
       Executed over 2,000 individual implant cases, contributing significantly to company success as the youngest team member.
-
-# Projects
-projects:
-  - title: California Fire Analysis
-    link: https://github.com/Alvin-Son/california_fire_analysis
-    time: Apr 2024
-    details: |
-      Analyzed the influence of monthly rainfall and temperature on wildfire frequency across California (2013-2024) using data from Cal Fire and NOAA.
-      Processed 2,000+ fire and climate records to identify key patterns.
-      Created visualizations with Python (Pandas, Matplotlib, Geopandas) to highlight environmental factors affecting fire occurrences.
-
-  - title: History of the Olympics
-    link: https://github.com/Alvin-Son/Project_Olympian
-    time: Aug 2024
-    details: |
-      Explored the impact of economic, political, and health stability on Olympic performance using historical data and development indicators.
-      Integrated datasets from OECD, World Bank, and Kaggle for performance analysis and predictions.
-      Built predictive models with Python (Pandas, Scikit-learn, TensorFlow) and developed interactive Tableau dashboards to present findings.
 
 # name: Wonbeom Lee
 # support_dark_mode: true
