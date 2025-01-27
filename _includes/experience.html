@@ -1,28 +1,20 @@
 {% assign experience = site.data.data.experience %}
 {% if experience %}
-<section class="experience">
+<section class="experiance">
     <h2 class="title">Experience</h2>
     {% for exp in experience %}
         <div class="experience-item">
-            <div class="experience-header">
-                <div class="role">
-                    {{ exp.role }}
-                </div>
-                <div class="company">
-                    {{ exp.company }}
-                    <span class="time" style="margin-left: 15px;">{{ exp.time }}</span>
-                </div>
+            <div class="role">
+                {{exp.role}}
             </div>
-            <ul class="details">
-                {% assign sentences = exp.details | split: '. ' %}
-                {% for sentence in sentences %}
-                {% if sentence != "" %}
-                <li>{{ sentence }}.</li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-            <p class="technologies">{{ exp.technologies_used }}</p>
+            <div class="company">
+                {{exp.company}} 
+                <span class="time">{{exp.time}}</span>
+            </div> 
+            <div class="details">{{exp.details}}</div>
+            <p class="technologies">{{exp.technologies_used}}</p>
         </div>
+       
     {% endfor %}
 </section>
 {% endif %}
