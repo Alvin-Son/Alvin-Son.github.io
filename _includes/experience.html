@@ -11,14 +11,14 @@
                 {{exp.company}} 
                 <span class="time">{{exp.time}}</span>
             </div> 
-            <ul class="details">
+            <div class="details">
                 {% assign sentences = exp.details | split: '. ' %}
                 {% for sentence in sentences %}
                 {% if sentence != "" %}
-                <li>{{ sentence }}.</li>
+                <div>- {{ sentence }}.</div>
                 {% endif %}
                 {% endfor %}
-            </ul>
+            </div>
             <p class="technologies">{{exp.technologies_used}}</p>
         </div>
     {% endfor %}
