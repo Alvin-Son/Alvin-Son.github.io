@@ -4,6 +4,8 @@
     <h2 class="title">Projects</h2>
     {% for p in projects %}
         <div class="project">
+            <span class="time">{{exp.time}}</span>
+        </div>
             <span>
                 <a class="project-link" href="{{p.link}}">
                     {{p.title}}
