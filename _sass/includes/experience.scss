@@ -1,4 +1,4 @@
-.experiance {
+.experience {
     .title {
         @include header;
     }
@@ -17,6 +17,16 @@
         }
         .details {
             @include body-text;
+            ul {
+                list-style-type: disc; // Add bullet points
+                margin-left: 20px; // Indent the bullet points
+                padding-left: 20px; // Ensure proper alignment
+                li {
+                    font-size: inherit; // Inherit font size from parent
+                    color: inherit; // Inherit color from parent
+                    margin-bottom: 5px; // Add spacing between bullet points
+                }
+            }
         }
         .technologies {
             @include body-text;
