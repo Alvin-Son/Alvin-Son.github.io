@@ -4,12 +4,22 @@
     <h2 class="title">Projects</h2>
     {% for p in projects %}
         <div class="project">
-            <span>
-                <a class="project-link" href="{{p.link}}">
+            <div class="project-link">
+                <a href="{{p.link}}">
                     {{p.title}}
                 </a>
-            </span>
-            <div class="details">{{p.details}}</div>
+                {% if p.time %}
+                <span class="time">{{p.time}}</span>
+                {% endif %}
+            </div>
+            <ul class="details">
+                {% for detail in p.details %}
+                    <li>{{detail}}</li>
+                {% endfor %}
+            </ul>
+            {% if p.technologies_used %}
+            <p class="technologies">{{p.technologies_used}}</p>
+            {% endif %}
         </div>
     {% endfor %}
 </section>
