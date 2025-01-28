@@ -9,6 +9,14 @@
         .project-link {
             @include body-text;
             font-weight: bold;
+            color: inherit; // Ensure links inherit the color from the parent
+            text-decoration: none; // Remove underline
+
+            &:hover,
+            &:focus {
+                color: inherit; // Maintain the same color on hover and focus
+                text-decoration: underline; // Optional: Add underline for interactivity
+            }
         }
 
         .details {
