@@ -59,6 +59,14 @@ projects:
       - Utilized SQL for querying over 25,000 records and generated insights into historical trends and standout seasons. 
       - Presented findings with detailed visualizations showcasing team dominance and key performance indicators.
 
+  - title: History of the Olympics 
+    link: https://github.com/Alvin-Son/Project_Olympian
+    time: Aug 2024
+    details: 
+      - Explored the impact of economic, political, and health stability on Olympic performance using historical data and development indicators. 
+      - Integrated datasets from OECD, World Bank, and Kaggle for performance analysis and predictions. 
+      - Built predictive models with Python (Pandas, Scikit-learn, TensorFlow) and developed interactive Tableau dashboards to present findings.
+      
   - title: California Fire Analysis 
     link: https://github.com/Alvin-Son/california_fire_analysis
     time: Apr 2024
@@ -67,13 +75,7 @@ projects:
       - Processed 2,000+ fire and climate records to identify key patterns. 
       - Created visualizations with Python (Pandas, Matplotlib, Geopandas) to highlight environmental factors affecting fire occurrences.
 
-  - title: History of the Olympics 
-    link: https://github.com/Alvin-Son/Project_Olympian
-    time: Aug 2024
-    details: 
-      - Explored the impact of economic, political, and health stability on Olympic performance using historical data and development indicators. 
-      - Integrated datasets from OECD, World Bank, and Kaggle for performance analysis and predictions. 
-      - Built predictive models with Python (Pandas, Scikit-learn, TensorFlow) and developed interactive Tableau dashboards to present findings.
+  
       
 # Experience
 experience:
